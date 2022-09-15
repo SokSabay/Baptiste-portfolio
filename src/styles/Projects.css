@@ -5,11 +5,14 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  font-family: "Raleway", sans-serif;
+  color: hsl(197, 37%, 24%);
 }
 .projects .projectTitle {
   text-align: center;
-  color: #3e497a;
+  color: hsl(197, 37%, 24%);
   font-size: 60px;
+  
   font-weight: bolder;
 }
 
