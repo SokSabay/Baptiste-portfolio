@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Upicon from "@material-ui/icons/ArrowUpward";
-
+import "../styles/ScrollToTop.css";
 import "../App";
 
 const ScrollToTop = () => {
