@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/Baptiste-portfolio/static/css/main.abf24f6d.css",
-    "main.js": "/Baptiste-portfolio/static/js/main.2d894b3b.js",
+    "main.css": "/Baptiste-portfolio/static/css/main.8b90ddd3.css",
+    "main.js": "/Baptiste-portfolio/static/js/main.6fae5808.js",
     "static/js/787.a2cb61a6.chunk.js": "/Baptiste-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/gerard.png": "/Baptiste-portfolio/static/media/gerard.161fe0a2514b941c954d.png",
-    "static/media/david.png": "/Baptiste-portfolio/static/media/david.d68d3501dc886fa986ad.png",
-    "static/media/sadOnion.png": "/Baptiste-portfolio/static/media/sadOnion.68abc2f3321f27b92f77.png",
-    "static/media/pirate.png": "/Baptiste-portfolio/static/media/pirate.29db979b0a64080df138.png",
-    "static/media/test.png": "/Baptiste-portfolio/static/media/test.7ffff829dabf48a8f79a.png",
-    "static/media/sauce.jpg": "/Baptiste-portfolio/static/media/sauce.ed555bed905fa2babfaa.jpg",
+    "static/media/p4.PNG": "/Baptiste-portfolio/static/media/p4.32994db377d0c9c1ed9f.PNG",
+    "static/media/p5.PNG": "/Baptiste-portfolio/static/media/p5.5046e71ea374425117c7.PNG",
+    "static/media/p2.PNG": "/Baptiste-portfolio/static/media/p2.d8d600a66d2ea31debc7.PNG",
+    "static/media/p3.PNG": "/Baptiste-portfolio/static/media/p3.1e45274f215ae450aa98.PNG",
+    "static/media/p7.PNG": "/Baptiste-portfolio/static/media/p7.36ac75c4fa5862587301.PNG",
+    "static/media/baptisteProfil.png": "/Baptiste-portfolio/static/media/baptisteProfil.317b3fddfd177dfab27a.png",
+    "static/media/p6.PNG": "/Baptiste-portfolio/static/media/p6.b63eb01720896149d7b2.PNG",
+    "static/media/p8.PNG": "/Baptiste-portfolio/static/media/p8.f9a47817580d586aae5f.PNG",
     "index.html": "/Baptiste-portfolio/index.html",
-    "main.abf24f6d.css.map": "/Baptiste-portfolio/static/css/main.abf24f6d.css.map",
-    "main.2d894b3b.js.map": "/Baptiste-portfolio/static/js/main.2d894b3b.js.map",
+    "main.8b90ddd3.css.map": "/Baptiste-portfolio/static/css/main.8b90ddd3.css.map",
+    "main.6fae5808.js.map": "/Baptiste-portfolio/static/js/main.6fae5808.js.map",
     "787.a2cb61a6.chunk.js.map": "/Baptiste-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abf24f6d.css",
-    "static/js/main.2d894b3b.js"
+    "static/css/main.8b90ddd3.css",
+    "static/js/main.6fae5808.js"
   ]
 }
