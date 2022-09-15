@@ -8,6 +8,7 @@ import profil from "../assets/baptisteProfil.png";
 function Home() {
   return (
     <div className="home">
+      
       <div className="about">
         <div className="flex-horizon">
           <div className="roundedImg">
@@ -16,7 +17,6 @@ function Home() {
           <div className="flex-start">
             <h2> Baptiste Chenot</h2>
             <p>
-  
               Développeur Web | Full Stack, passionné par l'art et le numérique
             </p>
           </div>
@@ -33,9 +33,7 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Front-End</h2>
-            <span>
-              ReactJS, HTML, CSS, SASS, NPM, BootStrap
-            </span>
+            <span>ReactJS, HTML, CSS, SASS, NPM, BootStrap</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
@@ -47,6 +45,7 @@ function Home() {
           </li>
         </ol>
       </div>
+      
     </div>
   );
 }
