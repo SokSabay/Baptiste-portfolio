@@ -6,6 +6,7 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import WorkIcon from "@material-ui/icons/Work";
+import "../styles/Experiences.css"
 
 function Experiences() {
   return (
@@ -22,7 +23,7 @@ function Experiences() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2021-2022"
+          date="2017"
           iconStyle={{ background: "hsl(197, 37%, 24%)", color: "#fff" }}
           icon={<SchoolIcon />}
         >

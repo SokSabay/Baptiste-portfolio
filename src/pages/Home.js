@@ -8,7 +8,6 @@ import profil from "../assets/baptisteProfil.png";
 function Home() {
   return (
     <div className="home">
-      
       <div className="about">
         <div className="flex-horizon">
           <div className="roundedImg">
@@ -22,9 +21,18 @@ function Home() {
           </div>
         </div>
 
-        <div className="prompt">
-          <GithubIcon />
-          <LinkedInIcon />
+        <div className="prompt socialMedia">
+          <GithubIcon
+            onClick={() => window.open("https://github.com/soksabay")}
+          />
+          <LinkedInIcon
+            onClick={() =>
+              window.open(
+                "https://www.linkedin.com/in/baptiste-chenot-1152b0b0/"
+              )
+            }
+          />
+
           <EmailIcon />
         </div>
       </div>
@@ -45,7 +53,6 @@ function Home() {
           </li>
         </ol>
       </div>
-      
     </div>
   );
 }
