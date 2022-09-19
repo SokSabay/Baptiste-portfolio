@@ -1,6 +1,5 @@
 .home {
   width: 100%;
-
   align-items: center;
   font-family: "Raleway", sans-serif;
   color: hsl(197, 37%, 24%);
@@ -11,7 +10,7 @@
   height: calc(100vh - 100px);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   text-align: center;
   background-color: hsl(197, 37%, 24%);
@@ -127,4 +126,22 @@
   .skills h2 {
     font-size: 30px;
   }
+  .roundedImg {
+  margin-top: 45px;
+  margin-right: 2rem;
+  border: 8px solid hsla(0, 0%, 0%, 0.35);
+  /* opacity: 0.50; */
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
+.profilPicture {
+  width: 110%;
+  display: block;
+  margin-left: -2%;
+  margin-right: auto;
+  transform: scaleX(-1);
+}
+
 }

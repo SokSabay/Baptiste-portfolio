@@ -9,6 +9,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
+        <span></span>
         <div className="flex-horizon">
           <div className="roundedImg">
             <img className="profilPicture" src={profil} alt="profil "></img>
@@ -21,7 +22,7 @@ function Home() {
           </div>
         </div>
 
-        <div className="prompt socialMedia">
+        <div className="prompt socialMedia homeSVG">
           <GithubIcon
             onClick={() => window.open("https://github.com/soksabay")}
           />
